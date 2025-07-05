@@ -52,19 +52,6 @@ export const CERTIFICATIONS: Certification[] = [
     url: 'https://courses.edx.org/certificates/80c178aa3b6e464298415fb03780ef79' 
   },
   { 
-    name: 'How to get into Robotics', 
-    issuer: 'University of Leeds (via FutureLearn)', 
-    year: 2025,
-    id: 'vezycvh',
-    url: 'https://www.futurelearn.com/certificates/vezycvh' 
-  },
-  { 
-    name: 'Coding with programmable robots for beginners', 
-    issuer: 'MindLuster', 
-    year: 2025,
-    id: '87b5cacc'
-  },
-  { 
     name: 'IoT Foundations: Operating System Applications', 
     issuer: 'LinkedIn Learning', 
     year: 2025,
