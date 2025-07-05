@@ -1,6 +1,8 @@
 # Run and deploy your portfolio website on `Vercel`
 - works with Free tier API from ai.studio of Gemini
 - This contains everything you need to run your app locally.
+- Readymade for editing and deploying on Vercel to host publicly
+- Netlify version is upcoming
 
 ## Run Locally
 
@@ -24,6 +26,6 @@ This project is dual-licensed:
   - Release your source code under AGPL, OR
   - Contact the author for a commercial license.
 
-I believe in open sharing — but also in fair credit and contribution.
+I believe in open sharing, but also in fair credit and contribution.
 
-Respect the OG, and we’ll build together.
+_**Respect the OG, and we’ll build together.**_
