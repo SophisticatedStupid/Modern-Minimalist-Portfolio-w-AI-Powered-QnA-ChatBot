@@ -1,11 +1,11 @@
 import type { Certification, ResearchPaper, Project } from './types';
 
 export const PROFILE_INFO = {
-  name: 'Khan Tahsin Abrar (KTA)',
-  aspiration: 'A self-driven Researcher & Innovator, AI Engineer, and Cybersecurity Specialist.',
-  goal: 'To join a world-class institution and contribute to groundbreaking research and development.',
-  keySkills: ['Artificial Intelligence', 'Robotics', 'IoT', 'Sustainable Technology', 'Machine Learning', 'Deep Learning', 'LLM-NLP', 'Python', 'C++', 'Cybersecurity', 'Computational Fluid Dynamics'],
-  email: 'khan.tahsin.abrar.kta@gmail.com',
+  name: 'Your Full-Name (Acronym)',
+  aspiration: 'Single line Descriptions | can add more | as you wish',
+  goal: 'Declare your goals-aims-agenda here',
+  keySkills: ['Your Main Skills', 'e.g., Robotics', 'IoT', 'Sustainable Technology', 'Machine Learning', 'Deep Learning', 'LLM-NLP'],
+  email: 'your-email-address@domain.com',
 };
 
 export const CERTIFICATIONS: Certification[] = [
@@ -13,16 +13,17 @@ export const CERTIFICATIONS: Certification[] = [
     name: 'TinyML2: Applications of TinyML', 
     issuer: 'HarvardX (via edX)', 
     year: 2025,
-    id: 'f794d1acd3374037834922384a290ac0',
-    url: 'https://courses.edx.org/certificates/f794d1acd3374037834922384a290ac0' 
+    id: '6969696969696969696969',
+    url: 'https://courses.edx.org/certificates/6969669696969699699669' 
   },
   { 
-    name: 'CS50x: CS50\'s Introduction to Computer Science', 
+    name: 'CS50x: CS50's Introduction to Computer Science', 
     issuer: 'HarvardX (via edX)', 
     year: 2025,
-    id: '0ffccb16c7ab4e139ed2cc39de8d8d1f',
-    url: 'https://courses.edx.org/certificates/0ffccb16c7ab4e139ed2cc39de8d8d1f' 
+    id: '420420420420420',
+    url: 'https://courses.edx.org/certificates/420420420420420' 
   },
+// Add more and more certs here by following this format, copy-paste and edit the info for each certs
   { 
     name: 'PY0221EN: Python for Data Engineering Project', 
     issuer: 'IBM (via edX)', 
