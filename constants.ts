@@ -24,27 +24,7 @@ export const CERTIFICATIONS: Certification[] = [
     url: 'https://courses.edx.org/certificates/420420420420420' 
   },
 // Add more and more certs here by following this format, copy-paste and edit the info for each certs
-  { 
-    name: 'PY0221EN: Python for Data Engineering Project', 
-    issuer: 'IBM (via edX)', 
-    year: 2025,
-    id: '033c08162c1e4cbfb9f005ebf0bb18e1',
-    url: 'https://courses.edx.org/certificates/033c08162c1e4cbfb9f005ebf0bb18e1' 
-  },
-  { 
-    name: 'PH125.1x: Data Science: R Basics', 
-    issuer: 'HarvardX (via edX)', 
-    year: 2025,
-    id: 'cbeaf2e0d9ed487a90dd2fd5dc7db4be',
-    url: 'https://courses.edx.org/certificates/cbeaf2e0d9ed487a90dd2fd5dc7db4be' 
-  },
-  { 
-    name: 'DS0101EN: Introduction to Data Science', 
-    issuer: 'IBM (via edX)', 
-    year: 2025,
-    id: 'fffd08ad902345e3bac9f8c42b0c68f1',
-    url: 'https://courses.edx.org/certificates/fffd08ad902345e3bac9f8c42b0c68f1' 
-  },
+
   { 
     name: 'CS50AI: CS50\'s Introduction to Artificial Intelligence with Python', 
     issuer: 'HarvardX (via edX)', 
