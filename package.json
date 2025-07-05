@@ -1,0 +1,21 @@
+{
+  "name": "kta-portfolio-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Khan Tahsin Abrar's Portfolio with secure serverless chat.",
+  "scripts": {
+    "build": "esbuild index.tsx --bundle --outfile=dist/index.js --jsx=automatic && cp index.html dist/"
+  },
+  "dependencies": {
+    "@google/genai": "^1.8.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "esbuild": "^0.23.0",
+    "typescript": "^5.4.5"
+  }
+}
