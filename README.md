@@ -1,6 +1,6 @@
-# Run and deploy your portfolio website <works with Free API from ai.studio of Gemini>
-
-This contains everything you need to run your app locally.
+# Run and deploy your portfolio website
+- works with Free tier API from ai.studio of Gemini
+- This contains everything you need to run your app locally.
 
 ## Run Locally
 
