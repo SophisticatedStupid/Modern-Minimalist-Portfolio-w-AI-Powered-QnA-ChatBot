@@ -45,21 +45,6 @@ export const CERTIFICATIONS: Certification[] = [
     id: '4554836007KA'
   },
   { 
-    name: 'GSWAIA: Getting Started with AI Agents in GitHub Copilot', 
-    issuer: 'Microsoft (via edX)', 
-    year: 2025,
-    id: '80c178aa3b6e464298415fb03780ef79',
-    url: 'https://courses.edx.org/certificates/80c178aa3b6e464298415fb03780ef79' 
-  },
-
-  { 
-    name: 'Artificial Intelligence Foundations: Thinking Machines', 
-    issuer: 'LinkedIn Learning', 
-    year: 2025,
-    id: '1d9858ba17539edc9467c3783201317e761fa6a39d269291c18e29214afc7d74',
-    url: 'https://www.linkedin.com/learning/certificates/1d9858ba17539edc9467c3783201317e761fa6a39d269291c18e29214afc7d74'
-  },
-  { 
     name: 'Arduino: Prototyping', 
     issuer: 'LinkedIn Learning', 
     year: 2025,
