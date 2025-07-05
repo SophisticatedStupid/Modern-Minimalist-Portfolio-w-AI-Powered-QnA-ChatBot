@@ -51,26 +51,13 @@ export const CERTIFICATIONS: Certification[] = [
     id: '80c178aa3b6e464298415fb03780ef79',
     url: 'https://courses.edx.org/certificates/80c178aa3b6e464298415fb03780ef79' 
   },
-  { 
-    name: 'IoT Foundations: Operating System Applications', 
-    issuer: 'LinkedIn Learning', 
-    year: 2025,
-    id: '3a20fcbc34611d6faba290f228ee5e3b17dfc1b353a9419f2ce2338893dbe22f',
-    url: 'https://www.linkedin.com/learning/certificates/3a20fcbc34611d6faba290f228ee5e3b17dfc1b353a9419f2ce2338893dbe22f'
-  },
+
   { 
     name: 'Artificial Intelligence Foundations: Thinking Machines', 
     issuer: 'LinkedIn Learning', 
     year: 2025,
     id: '1d9858ba17539edc9467c3783201317e761fa6a39d269291c18e29214afc7d74',
     url: 'https://www.linkedin.com/learning/certificates/1d9858ba17539edc9467c3783201317e761fa6a39d269291c18e29214afc7d74'
-  },
-  { 
-    name: 'Digital Technologies Case Studies: AI, IOT, Robotics, Blockchain', 
-    issuer: 'LinkedIn Learning', 
-    year: 2025,
-    id: 'fc1340cd31ee4d001139d8317101495a3bafdf5078469966731b95bf4b5f670f',
-    url: 'https://www.linkedin.com/learning/certificates/fc1340cd31ee4d001139d8317101495a3bafdf5078469966731b95bf4b5f670f'
   },
   { 
     name: 'Arduino: Prototyping', 
@@ -92,13 +79,6 @@ export const CERTIFICATIONS: Certification[] = [
     year: 2025,
     id: '97705b07422273990d14a471f8a245127ab49afeb0c3b16456a1960797d48dab',
     url: 'https://www.linkedin.com/learning/certificates/97705b07422273990d14a471f8a245127ab49afeb0c3b16456a1960797d48dab'
-  },
-  { 
-    name: 'Learning Arduino: Interfacing with Analog Devices', 
-    issuer: 'LinkedIn Learning', 
-    year: 2025,
-    id: '61c08c25b65821a0d33e6f4f90598662055be25620b201f55b9c7e20807279c9',
-    url: 'https://www.linkedin.com/learning/certificates/61c08c25b65821a0d33e6f4f90598662055be25620b201f55b9c7e20807279c9'
   },
   { 
     name: 'IoT Foundations: Low-Power Wireless Networking', 
