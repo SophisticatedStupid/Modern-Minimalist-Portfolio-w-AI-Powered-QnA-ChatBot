@@ -1,4 +1,4 @@
-# Run and deploy your portfolio website
+# Run and deploy your portfolio website on `Vercel`
 - works with Free tier API from ai.studio of Gemini
 - This contains everything you need to run your app locally.
 
