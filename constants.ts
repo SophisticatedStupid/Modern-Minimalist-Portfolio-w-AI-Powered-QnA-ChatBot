@@ -219,13 +219,6 @@ export const CERTIFICATIONS: Certification[] = [
     id: 'UC-1928195f-889d-4733-8eca-6ca7f5641c21',
     url: 'https://www.udemy.com/certificate/UC-1928195f-889d-4733-8eca-6ca7f5641c21' 
   },
-  { 
-    name: 'Cybersecurity Upskilling: A Practical Guide to LinkedIn Learning\'s Cybersecurity Framework', 
-    issuer: 'LinkedIn Learning', 
-    year: 2025,
-    id: '23a6fcde4ed32417184c92e04d3d429617acdd5aba091f5bc31111adb12339a4',
-    url: 'https://www.linkedin.com/learning/certificates/23a6fcde4ed32417184c92e04d3d429617acdd5aba091f5bc31111adb12339a4'
-  },
   { name: 'Artificial Intelligence & Machine Learning Fundamentals', issuer: 'Grameenphone Academy', year: 2024 },
   { name: 'Career Launchpad', issuer: 'Grameenphone Academy', year: 2024 },
   { name: 'Acing Aptitude Tests', issuer: 'Grameenphone Academy', year: 2024 },
@@ -293,7 +286,7 @@ export const NAV_LINKS = [
 ];
 
 export const SOCIAL_LINKS = [
-  { name: 'GitHub', url: 'https://github.com/sophisticatedstupid' },
-  { name: 'LinkedIn', url: 'https://linkedin.com/in/khantahsinabrar' },
+  { name: 'GitHub', url: 'https://github.com/your_github_cred_link' },
+  { name: 'LinkedIn', url: 'https://linkedin.com/in/your_linkedin_link' },
   { name: 'Email', url: '#email' },
 ];
