@@ -52,20 +52,6 @@ export const CERTIFICATIONS: Certification[] = [
     url: 'https://courses.edx.org/certificates/80c178aa3b6e464298415fb03780ef79' 
   },
   { 
-    name: 'How to get into AI', 
-    issuer: 'University of Leeds (via FutureLearn)', 
-    year: 2025,
-    id: 'sba7s4s',
-    url: 'https://www.futurelearn.com/certificates/sba7s4s' 
-  },
-  { 
-    name: 'UAIFET: Use AI for Everyday Tasks', 
-    issuer: 'Microsoft (via edX)', 
-    year: 2025,
-    id: '8a79970f34394251a230909b4eaad589',
-    url: 'https://courses.edx.org/certificates/8a79970f34394251a230909b4eaad589' 
-  },
-  { 
     name: 'How to get into Robotics', 
     issuer: 'University of Leeds (via FutureLearn)', 
     year: 2025,
