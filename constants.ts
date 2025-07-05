@@ -24,14 +24,6 @@ export const CERTIFICATIONS: Certification[] = [
     url: 'https://courses.edx.org/certificates/420420420420420' 
   },
 // Add more and more certs here by following this format, copy-paste and edit the info for each certs
-
-  { 
-    name: 'CS50AI: CS50\'s Introduction to Artificial Intelligence with Python', 
-    issuer: 'HarvardX (via edX)', 
-    year: 2025,
-    id: 'df8b1071996a4829bb7d8711b8a2200d',
-    url: 'https://courses.edx.org/certificates/df8b1071996a4829bb7d8711b8a2200d' 
-  },
   { 
     name: 'VSFO01: Verizon Skill Forward Orientation Course', 
     issuer: 'edX', 
