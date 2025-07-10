@@ -23,34 +23,6 @@ export const CERTIFICATIONS: Certification[] = [
     id: '420420420420420',
     url: 'https://courses.edx.org/certificates/420420420420420' 
   },
-// Add more and more certs here by following this format, copy-paste and edit the info for each certs
-  { 
-    name: 'VSFO01: Verizon Skill Forward Orientation Course', 
-    issuer: 'edX', 
-    year: 2025,
-    id: 'bb2c6afc56e44abcadcb457c98f7ef71',
-    url: 'https://courses.edx.org/certificates/bb2c6afc56e44abcadcb457c98f7ef71' 
-  },
-  { 
-    name: 'Strategic Product Development: A Practical Guide to Research', 
-    issuer: 'MTF Institute (via Udemy)', 
-    year: 2025,
-    id: 'UC-3e53e611-7ca3-42bd-acbc-b73a184c5ebe',
-    url: 'https://www.udemy.com/certificate/UC-3e53e611-7ca3-42bd-acbc-b73a184c5ebe'
-  },
-  { 
-    name: 'Strategic Product Development: A Practical Guide to Research', 
-    issuer: 'MTF Institute (GTFI Instituto)', 
-    year: 2025,
-    id: '4554836007KA'
-  },
-  { 
-    name: 'Arduino: Prototyping', 
-    issuer: 'LinkedIn Learning', 
-    year: 2025,
-    id: '217fd46dfb9b889bb33d7e899f8ffd408db92dbad9e8286915e8100ea54ac97d',
-    url: 'https://www.linkedin.com/learning/certificates/217fd46dfb9b889bb33d7e899f8ffd408db92dbad9e8286915e8100ea54ac97d'
-  },
   { 
     name: 'IoT Foundations: Device Management', 
     issuer: 'LinkedIn Learning', 
