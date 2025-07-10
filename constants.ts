@@ -24,55 +24,6 @@ export const CERTIFICATIONS: Certification[] = [
     url: 'https://courses.edx.org/certificates/420420420420420' 
   },
   { 
-    name: 'IoT Foundations: Device Management', 
-    issuer: 'LinkedIn Learning', 
-    year: 2025,
-    id: '3769eb6ba51576f5a95283a9797c872fdcf817f82ae7cfd822752f68bea19d83',
-    url: 'https://www.linkedin.com/learning/certificates/3769eb6ba51576f5a95283a9797c872fdcf817f82ae7cfd822752f68bea19d83'
-  },
-  { 
-    name: 'IoT Foundations: Operating Systems Fundamentals', 
-    issuer: 'LinkedIn Learning', 
-    year: 2025,
-    id: '97705b07422273990d14a471f8a245127ab49afeb0c3b16456a1960797d48dab',
-    url: 'https://www.linkedin.com/learning/certificates/97705b07422273990d14a471f8a245127ab49afeb0c3b16456a1960797d48dab'
-  },
-  { 
-    name: 'IoT Foundations: Low-Power Wireless Networking', 
-    issuer: 'LinkedIn Learning', 
-    year: 2025,
-    id: 'd3750107d34bff4998da2a44a020c1e16c619e43c59e89081e2f2547e3f069f0',
-    url: 'https://www.linkedin.com/learning/certificates/d3750107d34bff4998da2a44a020c1e16c619e43c59e89081e2f2547e3f069f0'
-  },
-  { 
-    name: 'Real Ethical Hacking in 43 Hours: Certificated CSEH+CEH PRO', 
-    issuer: 'OCSALY Academy (via Udemy)', 
-    year: 2025,
-    id: 'UC-9d52faf1-6162-495e-9e38-fc160e6f2cb8',
-    url: 'https://www.udemy.com/certificate/UC-9d52faf1-6162-495e-9e38-fc160e6f2cb8' 
-  },
-  { 
-    name: 'Learning Arduino: Foundations', 
-    issuer: 'LinkedIn Learning', 
-    year: 2025,
-    id: '2d650101efee3013c2dc4ee91c27758f563cf8deb8ff2b0d9d303f2aa8e97c68',
-    url: 'https://www.linkedin.com/learning/certificates/2d650101efee3013c2dc4ee91c27758f563cf8deb8ff2b0d9d303f2aa8e97c68'
-  },
-  { 
-    name: 'IoT Foundations: Fundamentals', 
-    issuer: 'LinkedIn Learning', 
-    year: 2025,
-    id: '6f941dcbc76be3ee150363e044734625a1f8df99ed561dd865b6ce4ff8e66a65',
-    url: 'https://www.linkedin.com/learning/certificates/6f941dcbc76be3ee150363e044734625a1f8df99ed561dd865b6ce4ff8e66a65'
-  },
-  { 
-    name: 'Input Sensors with PLC: Sinking and Sourcing', 
-    issuer: 'LinkedIn Learning', 
-    year: 2025,
-    id: '86c0e823ce2b0da0bdfc6abc431517e77b3c0f8cc75c0b7770adefa4130c2999',
-    url: 'https://www.linkedin.com/learning/certificates/86c0e823ce2b0da0bdfc6abc431517e77b3c0f8cc75c0b7770adefa4130c2999'
-  },
-  { 
     name: 'Input Sensors with PLC: 4-20 mA Current Loop', 
     issuer: 'LinkedIn Learning', 
     year: 2025,
