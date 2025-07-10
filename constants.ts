@@ -57,10 +57,10 @@ export const RESEARCH_PAPERS: ResearchPaper[] = [
 
 export const PROJECTS: Project[] = [
   {
-    title: 'Project Genesis: AI Portfolio Builder',
-    description: 'A web application that uses generative AI to help users create stunning portfolios by simply providing their data.',
+    title: 'Project Fanum-Tax: AI Porto-rico Builder',
+    description: 'relax at Puerto Rican sea-beach',
     tags: ['React', 'TypeScript', 'Node.js', 'Gemini API'],
-    imageUrl: 'https://images.unsplash.com/photo-1620712943543-26fc7ee5505e?w=400&h=300&fit=crop',
+    imageUrl: 'https://lol.lol',
     liveUrl: '#',
     sourceUrl: 'https://github.com/sophisticatedstupid'
   },
@@ -79,10 +79,10 @@ export const PROJECTS: Project[] = [
     liveUrl: '#',
   },
   {
-    title: 'IslamicaAI',
-    description: 'An Islamic chatbot designed to provide authenticated knowledge about Islam, combating the spread of misinformation from AI and deepfake fabrications.',
-    tags: ['AI', 'Chatbot', 'NLP', 'Fact-Checking', 'Islamic Studies', 'Conversational LLM Advisor'],
-    imageUrl: 'https://images.unsplash.com/photo-1599250322964-f58476b8b933?w=400&h=300&fit=crop',
+    title: 'LOL',
+    description: 'LOML',
+    tags: ['AI', 'Chatbot', 'NLP', 'Fact-Checking', 'GenZ Studies', 'Conversational LLM Advisor'],
+    imageUrl: 'https://images',
     sourceUrl: 'https://github.com/sophisticatedstupid'
   },
 ];
