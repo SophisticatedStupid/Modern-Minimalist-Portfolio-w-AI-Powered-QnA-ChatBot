@@ -149,41 +149,6 @@ export const CERTIFICATIONS: Certification[] = [
     id: '2054f968890567ee22f748c27944da2574abb97d7b54c6524f7d101739d04718',
     url: 'https://www.linkedin.com/learning/certificates/2054f968890567ee22f748c27944da2574abb97d7b54c6524f7d101739d04718'
   },
-  { 
-    name: 'Career Essentials in GitHub Professional Certificate', 
-    issuer: 'LinkedIn Learning & GitHub', 
-    year: 2025,
-    id: '27f6a3c822e552f8dc7d7ebd84cbe96893a3e2a607b54ee4ed78eba11792ed19',
-    url: 'https://www.linkedin.com/learning/certificates/27f6a3c822e552f8dc7d7ebd84cbe96893a3e2a607b54ee4ed78eba11792ed19'
-  },
-  { 
-    name: 'MySQL for Beginners: A Complete Training for beginners', 
-    issuer: 'Meta Brains (via Udemy)', 
-    year: 2025,
-    id: 'UC-f5c8625b-cee1-4f8d-8f99-da9bae5f9a5f',
-    url: 'https://www.udemy.com/certificate/UC-f5c8625b-cee1-4f8d-8f99-da9bae5f9a5f' 
-  },
-  { 
-    name: 'CSS, JavaScript And PHP Complete Course For Beginners', 
-    issuer: 'PROPER DOT INSTITUTE (via Udemy)', 
-    year: 2025,
-    id: 'UC-ea92d608-f78f-4981-8c76-a67bfe9d2282',
-    url: 'https://www.udemy.com/certificate/UC-ea92d608-f78f-4981-8c76-a67bfe9d2282' 
-  },
-  { 
-    name: 'Computer Networks Fundamentals', 
-    issuer: 'Cyber Quince (via Udemy)', 
-    year: 2025,
-    id: 'UC-d67fa77e-5ec8-4e69-a798-1a6d26deafad',
-    url: 'https://www.udemy.com/certificate/UC-d67fa77e-5ec8-4e69-a798-1a6d26deafad' 
-  },
-  { 
-    name: 'Python: From Zero to Hero - Code Your Way to the Top', 
-    issuer: 'Ahmed El Mohandes (via Udemy)', 
-    year: 2025,
-    id: 'UC-1928195f-889d-4733-8eca-6ca7f5641c21',
-    url: 'https://www.udemy.com/certificate/UC-1928195f-889d-4733-8eca-6ca7f5641c21' 
-  },
   { name: 'Artificial Intelligence & Machine Learning Fundamentals', issuer: 'Grameenphone Academy', year: 2024 },
   { name: 'Career Launchpad', issuer: 'Grameenphone Academy', year: 2024 },
   { name: 'Acing Aptitude Tests', issuer: 'Grameenphone Academy', year: 2024 },
