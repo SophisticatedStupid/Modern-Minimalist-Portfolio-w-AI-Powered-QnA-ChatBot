@@ -24,48 +24,6 @@ export const CERTIFICATIONS: Certification[] = [
     url: 'https://courses.edx.org/certificates/420420420420420' 
   },
   { 
-    name: 'Input Sensors with PLC: 4-20 mA Current Loop', 
-    issuer: 'LinkedIn Learning', 
-    year: 2025,
-    id: '2a5ae1c356eafcc5e1d107f3ac0e87cb29f029040003cb22820b6b4e473635e0',
-    url: 'https://www.linkedin.com/learning/certificates/2a5ae1c356eafcc5e1d107f3ac0e87cb29f029040003cb22820b6b4e473635e0'
-  },
-  { 
-    name: 'Learning Arduino: Interfacing with Hardware', 
-    issuer: 'LinkedIn Learning', 
-    year: 2025,
-    id: 'f4eddc8362b6e0f8fedf2803ad5c681a2c0005b92662d5535e146d16cfd6d150',
-    url: 'https://www.linkedin.com/learning/certificates/f4eddc8362b6e0f8fedf2803ad5c681a2c0005b92662d5535e146d16cfd6d150'
-  },
-  { 
-    name: 'Electronics Foundations: Semiconductor Devices', 
-    issuer: 'LinkedIn Learning', 
-    year: 2025,
-    id: '1d5fc7574a669dc0bdf4e264784475d10ab9a63997f12576a1129f73a6a21ea9',
-    url: 'https://www.linkedin.com/learning/certificates/1d5fc7574a669dc0bdf4e264784475d10ab9a63997f12576a1129f73a6a21ea9'
-  },
-  { 
-    name: 'Electronics Foundations: Basic Circuits', 
-    issuer: 'LinkedIn Learning', 
-    year: 2025,
-    id: '8a76267252370c1a7b092ccb16153a142ff17fee152e4640adacd148428a2707',
-    url: 'https://www.linkedin.com/learning/certificates/8a76267252370c1a7b092ccb16153a142ff17fee152e4640adacd148428a2707'
-  },
-  { 
-    name: 'Electronics Foundations: Fundamentals', 
-    issuer: 'LinkedIn Learning', 
-    year: 2025,
-    id: '618a99676d0b8f579cd2bd4e41e11830c60b598a9dae2362bcdc0f0924a13ed5',
-    url: 'https://www.linkedin.com/learning/certificates/618a99676d0b8f579cd2bd4e41e11830c60b598a9dae2362bcdc0f0924a13ed5'
-  },
-  { 
-    name: 'Software Development Fundamentals', 
-    issuer: 'LinkedIn Learning', 
-    year: 2025,
-    id: '033c58018f5bba66256fe4775bd1d9cda9db1b0e18eef671f891e9ef22c4c776',
-    url: 'https://www.linkedin.com/learning/certificates/033c58018f5bba66256fe4775bd1d9cda9db1b0e18eef671f891e9ef22c4c776'
-  },
-  { 
     name: 'Emotional Intelligence for Cybersecurity Professionals', 
     issuer: 'LinkedIn Learning', 
     year: 2025,
